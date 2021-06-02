@@ -1,0 +1,2 @@
+# Laptops-P2430705
+[University 2nd Year Term1] Created a Windows Forms Application system for a make-believe laptop shop. A demonstration of polymorphism. A laptop inventory list can be updated/saved and loaded from a local directory. Laptops HP or Apple, can be added to and deleted from the inventory list. Price of a laptop is calculated depending on the brand, age and quality. The inventory list can be searched and navigated to locate laptops. Laptops can be displayed that are within a specified price range.
